@@ -1,4 +1,6 @@
 # MSD-GCN
+
+\image.png
 For obtaining the data for the framework, please follow the steps:
 Detailed steps:
 
