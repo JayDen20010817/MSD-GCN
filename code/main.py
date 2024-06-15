@@ -27,9 +27,9 @@ def set_args():
     parser.add_argument("--adam_epsilon", default=1e-8, type=float, help="Epsilon for Adam optimizer.")
     parser.add_argument("--optimizer_name", type=str, default='adam',
                         help="use which optimizer to train the model.")
-    parser.add_argument('--learning_rate', default=5e-4, type=float, help='learning rate for modules expect CLIP')
-    parser.add_argument('--clip_learning_rate', default=1e-6, type=float, help='learning rate for CLIP')
-    parser.add_argument('--max_len', default=77, type=int, help='max len of text based on CLIP')
+    parser.add_argument('--learning_rate', default=5e-4, type=float, )
+    parser.add_argument('--clip_learning_rate', default=1e-6, type=float, )
+    parser.add_argument('--max_len', default=77, type=int, )
     parser.add_argument('--layers', default=3, type=int, help='number of transform layers')
     parser.add_argument('--max_grad_norm', default=5.0, type=float, help='grad clip norm')
     parser.add_argument('--weight_decay', default=0.05, type=float, help='weight decay')
