@@ -1,5 +1,5 @@
 # MSD-GCN
-
+**Since we intend to expand the conference version of this work into a journal version, we will temporarily hide the code. After the journal is officially published, we will update the code as soon as possible. We are very sorry for any inconvenience caused to you.**
 ![image](image.png)
  <br />
 For obtaining the data for the framework, please follow the steps:
